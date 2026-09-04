@@ -1,0 +1,16 @@
+/* Navbar */
+.nav-link {
+  margin-left: 25px;
+}
+
+/* Footer */
+
+.foot-link {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
